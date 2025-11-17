@@ -1,5 +1,5 @@
 # CSES-Solutions
-This repository contains my solution to all the problems in [CSES Problem Set](cses.fi/problemset) written in c++.
+This repository contains my solution to all the problems in [CSES Problem Set](https://cses.fi/problemset) written in C++.
 
 ## In the making, this will cover all the following sets:
 + Introductory Problems
